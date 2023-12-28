@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezwanz" alt="rezwanz" /></a> </p>
 
-- 🔭 I’m currently working on **Wyss DxA**
+- 🔭 I’m currently working on **A Laboratory Information Management System of Wyss Institute at Harvard**
 
 - 🌱 I’m currently learning **Laravel & MERN**
 
