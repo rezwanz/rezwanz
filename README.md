@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **A Laboratory Information Management System of Wyss Institute at Harvard**
 
-- 🌱 I’m currently learning **Laravel & MERN**
+- 🌱 I’m currently learning **JavaScript & MERN**
 
 - 👨‍💻 All of my projects are available at [https://rezwanz.github.io/md-rejwan-mahmud/](https://rezwanz.github.io/md-rejwan-mahmud/)
 
