@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezwanz" alt="rezwanz" /></a> </p>
 
-- 🔭 I’m currently working on **A Laboratory Information Management System of Wyss Institute at Harvard**
+- 🔭 I’m currently working on **goRMG ERP**
 
-- 🌱 I’m currently learning **JavaScript & MERN**
+- 🌱 I’m currently learning **Advanced Laravel & Vue**
 
 - 👨‍💻 All of my projects are available at [https://rezwanz.github.io/md-rejwan-mahmud/](https://rezwanz.github.io/md-rejwan-mahmud/)
 
 - 💬 Ask me about **Technologies**
 
-- 📫 How to reach me **mrm.shakil21@gmail.com**
+- 📫 How to reach me **rejwan.dev24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
