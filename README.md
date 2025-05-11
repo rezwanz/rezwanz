@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advanced Laravel & Vue**
 
-- 👨‍💻 All of my projects are available at [https://rezwanz.github.io/md-rejwan-mahmud/](https://rezwanz.github.io/md-rejwan-mahmud/)
+- 👨‍💻 All of my projects are available at [[https://rezwanz.github.io/md-rejwan-mahmud/](https://rezwanz.github.io/md-rejwan-mahmud/](https://rezwanz.github.io/md-rejwan-mahmud-portfolio/))
 
 - 💬 Ask me about **Technologies**
 
