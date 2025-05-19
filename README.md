@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezwanz" alt="rezwanz" /></a> </p>
 
-- 🔭 I’m currently working on **goRMG ERP**
+- 🔭 I’m currently working on **etripi.com**
 
 - 🌱 I’m currently learning **Advanced Laravel & Vue**
 
