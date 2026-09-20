@@ -12,7 +12,7 @@ I work primarily with Laravel and PHP, with a strong focus on backend architectu
   <a href="https://github.com/rezwanz">GitHub</a> ·
   <a href="https://www.linkedin.com/in/md-rejwan-mahmud">LinkedIn</a> ·
   <a href="mailto:rejwan.dev24@gmail.com">Email</a> ·
-  <a href="https://rezwanz.github.io/">Portfolio</a>
+  <a href="https://rejwan.dev/">Portfolio</a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=rezwanz&style=flat-square" alt="Profile views" />
