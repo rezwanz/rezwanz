@@ -318,7 +318,7 @@ I'm open to discussing **software engineering opportunities, backend development
 - 📧 [rejwan.dev24@gmail.com](mailto:rejwan.dev24@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/md-rejwan-mahmud)
 - 🐙 [GitHub @rezwanz](https://github.com/rezwanz)
-- 🌐 [Portfolio](https://rezwanz.github.io/)
+- 🌐 [Portfolio](https://rejwan.dev/)
 - 📍 Narayanganj, Bangladesh
 
 <div align="center">
