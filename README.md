@@ -1,12 +1,10 @@
 <div align="center">
 
-# Md. Rejwan Mahmud
+<img src="./assets/banner_image.png" alt="Md. Rejwan Mahmud — Software Engineer" width="100%" />
 
-### Software Engineer · Backend Engineer · Full-Stack Developer
+### 👋 Hi there, I'm Md. Rejwan Mahmud
 
-**Backend-focused Software Engineer building scalable SaaS, ERP, CRM, booking, and business applications.**
-
-I work primarily with Laravel and PHP, with a strong focus on backend architecture, database design, performance optimization, and reliable production systems.
+**Software Engineer · Backend Engineer · Full-Stack Developer**
 
 <p>
   <a href="https://github.com/rezwanz">GitHub</a> ·
@@ -21,7 +19,8 @@ I work primarily with Laravel and PHP, with a strong focus on backend architectu
 
 ---
 
-## 👋 About Me
+
+## 🧑‍💻 About Me
 
 I'm a **backend-focused Software Engineer with 4+ years of experience** building multi-tenant SaaS platforms, ERP systems, CRM solutions, booking platforms, and business applications.
 
